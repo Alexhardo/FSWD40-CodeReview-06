@@ -1,0 +1,64 @@
+#topTitle {
+    
+    background: linear-gradient(rgba(86, 29, 96, 0.3), rgba(86, 29, 96, 0.5)), url(../imgs/cover.jpg);
+    
+    margin-bottom: 10px;
+    height: 200px;
+}
+
+#mt {
+    color: black;
+}
+
+body {
+    font-family: 'Calibri';
+}
+
+div[class*="col"] {
+    height: 400px;
+    background-color: #424242;
+}
+
+.container {
+    background-color: #5C6BC0;
+}
+
+
+
+.vid {
+    border-radius: 25px;
+    color: black;
+    padding: 5px;
+    background: #80D8FF;
+    height: 350px;
+    margin-top: 0.6em;
+    padding-bottom: 20px;
+}
+
+
+
+img {
+    border-radius: 25px;
+    height: 200px;
+    width: 200px;
+}
+
+span {
+    font-size: 30px;
+    color: #FFD700;
+}
+
+label {
+    cursor: pointer;
+}
+
+.col-md-12 h1 {
+    font-size: 100px;
+    color: white;
+}
+
+footer {
+background-color: #80DEEA;
+	text-align: center;
+	font-size: 25px;
+	}
